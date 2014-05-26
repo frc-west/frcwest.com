@@ -1,0 +1,63 @@
+* {
+	max-width: 100%;
+	margin: 0;
+}
+html, body {
+	height: 100%;
+	background-color: #F5F5F5;
+	padding: 0;
+}
+.navbar {
+	background: #DEDEDE;
+}
+.body {
+	min-height: 100%;
+	/* Firefox */
+	min-height: -moz-calc(100% - 80px);
+	/* WebKit */
+	min-height: -webkit-calc(100% - 80px);
+	/* Opera */
+	min-height: -o-calc(100% - 80px);
+	/* Standard */
+	min-height: calc(100% - 80px);
+	padding-bottom: 30px;
+}
+.indented {
+	padding-left:20px;
+}
+@media screen and (max-width: 550px) {
+	.footer {
+		display: none; 
+	}
+}
+.footer {
+	background-color: #949494;
+	width: 100%;
+	min-height: 80px;
+	position: 
+}
+.footer span {
+	color: #ffffff;
+}
+.footer a {
+	color: #5C5C5C;
+}
+.footer .brand {
+	padding-right: 30px;
+	font-size: 30px;
+}
+.footer .inner {
+	position: absolute;
+	padding-left: 1%;
+	width: 98%;
+	line-height: 80px;
+}
+.footer img {
+	max-height: 40px;
+}
+.footer .left {
+	float: left;
+}
+.footer .right {
+	float: right;
+}
