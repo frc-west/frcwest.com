@@ -13,3 +13,5 @@ layout: default
     {% endif %}
 {% endfor %}
 </table>
+
+<a href="/feed.articles.xml"><img src="/img/rss.png"></a>
