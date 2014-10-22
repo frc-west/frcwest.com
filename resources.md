@@ -43,6 +43,11 @@ layout: default
 - [FIRST Finances](http://www.usfirst.org/roboticsprograms/frc/finances)
 - [Fundraising 101](http://www.chiefdelphi.com/forums/showthread.php?t=68044)
 - [Sponsorship 101](http://www.chiefdelphi.com/forums/showthread.php?t=68051)
+- [Awesome Foundation Calgary](http://www.awesomecalgary.org/)
+- [Trade Associations](http://www.albertacanada.com/business/statistics/directory-of-directories.aspx)
+- [CIP Grants](http://culture.alberta.ca/community-and-voluntary-services/community-grants/community-initiatives-program/)
+- [Engineering Companies](http://www.canadian-universities.net/Employment/Engineering/Companies-Alberta-Calgary.html)
+- [Fabrication Shops](http://www.calgaryeconomicdevelopment.com/sites/default/files/pdf/company-lists/Manufacturing_Top_Cos_branded.pdf)
 
 ### Strategy
 - [Team 358 Strategy](http://www.team358.org/files/strategy/)
