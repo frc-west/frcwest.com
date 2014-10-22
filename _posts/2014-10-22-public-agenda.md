@@ -6,8 +6,6 @@ layout: post
 Find the official public agenda [here](http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Events/2015/2015_ABCA_Agenda.pdf).
 
 ## April 1st, 2015
-**3:45PM - 6:00PM**: Setting up Pits and Volunteer Areas
-
 **6:00PM - 8:00PM**: 5 Team Representatives Load-In
 
 ## April 2nd, 2015
