@@ -5,6 +5,8 @@ layout: post
 
 Details have been available for a while through our mailing list, but we thought it would be good to include them here as well.
 
+Please RSVP to all workshops [here](http://goo.gl/forms/4ql11mJADR).
+
 For teams that are located far from Calgary:
 
     * indicates that the session is recorded
