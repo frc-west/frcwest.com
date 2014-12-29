@@ -13,11 +13,11 @@ Find the official public agenda [here](http://www.usfirst.org/uploadedFiles/Robo
 
 **8:30AM**: Pits, Machine Shop, Registration, and Inspection Open
 
-**10:00AM**: - 12:00PM**: Practice Rounds
+**9:00AM - 11:00AM**: Driver’s Meeting, Field open for Measurement and Calibration
 
-**12:00PM - 1:00PM**: Lunch
+**11:00AM - 12:00PM**: Lunch
 
-**1:00PM - 4:30PM**: Practice Rounds
+**12:00PM - 6:30PM**: Practice Rounds
 
 **8:00PM**: Pits and Machine Shop Close
 
