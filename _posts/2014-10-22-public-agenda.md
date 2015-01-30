@@ -11,7 +11,7 @@ Find the official public agenda [here](http://www.usfirst.org/uploadedFiles/Robo
 ## April 2nd, 2015
 **7:45AM**: 5 Team representatives Load-In
 
-**8:30AM**: Pits, Machine Shop, Registration, and Inspection Open
+**8:00AM**: Pits, Machine Shop, Registration, and Inspection Open
 
 **9:00AM - 11:00AM**: Driver’s Meeting, Field open for Measurement and Calibration
 
