@@ -17,7 +17,9 @@ Find the official public agenda [here](http://www.usfirst.org/uploadedFiles/Robo
 
 **11:00AM - 12:00PM**: Lunch
 
-**12:00PM - 6:30PM**: Practice Rounds
+**12:00PM - 5:00PM**: Practice Rounds
+
+**5:00PM - 6:30PM**: Reserved for connecting to field
 
 **8:00PM**: Pits and Machine Shop Close
 
