@@ -101,6 +101,7 @@ layout: default
 - [Getting started with Java](http://wpilib.screenstepslive.com/s/3120/m/7885)
 - [Smartdashboard](http://wpilib.screenstepslive.com/s/3120/m/7932)
 - [Vision Processing](http://wpilib.screenstepslive.com/s/3120/m/8731)
+- [PID](http://goo.gl/af6Jei)
 
 ### Competitions
 - [Building a crate](http://www.chiefdelphi.com/media/papers/1923)
